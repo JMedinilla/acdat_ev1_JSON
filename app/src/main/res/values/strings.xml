@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JSON_JMedinilla</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actividad__uno">Actividad_Uno</string>
+    <string name="title_activity_actividad__dos">Actividad_Dos</string>
+    <string name="title_activity_actividad__tres">Actividad_Tres</string>
+    <string name="title_activity_actividad__cuatro">Actividad_Cuatro</string>
+    <string name="title_activity_descarga_estado_ciudad">DescargaEstadoCiudad</string>
+</resources>
